@@ -31,4 +31,6 @@ pytube
 numexpr
 huggingface_hub
 uvicorn
+langserve
 fastapi
+sse_starlette
